@@ -3,6 +3,7 @@
 # Contribution Guidelines
 
 Please ensure your pull request adheres to the following guidelines:
+![Screenshot (24)](https://user-images.githubusercontent.com/89176317/209047564-06f3a357-d218-4b72-8099-aeac4a4e35cd.png)
 
 - Alphabetize your entry.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
