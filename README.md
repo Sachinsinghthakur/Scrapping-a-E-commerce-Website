@@ -13,11 +13,11 @@
 - After all the testing and debugging I wrote the code in form of functions in my scrapy spider , I learnt how scrapy works and built my pipeline accordingly to load the    product data in my mongodb server.I already knew about pymongo and how to connect with the cluster so that was easy for me.
 - For **Analytical** **Part** of the project I revised and also learnt new way to query mongodb database from websites,mongodb community and youtube videos and test        every query for a single collection before writing it for the whole database
 
-Thank you for your suggestions!
+Thank you for your time and patience!
 
 # File and Folder Structure
 
-- Leclerc folder is main project folder with analytical queries and along with screenshot folder which contain scrrenshot of terminal with request and response and I also added the screenshot of my cloud mongo db cluster images containing the database and all its collection.
+- Leclerc folder is main project folder with analytical queries and along with screenshot folder which contain scrrenshot of terminal with request and response and I       also added the screenshot of my cloud mongo db cluster images containing the database and all its collection.
 - test.ipynb and product_scrap_test.ipynb file consist of all the code i tried and tested before writing them into my spider.
 - For the Assignment ,I followed the default srapy's project structure.
 - All scrapy-related code is placed directly in project folder leclercProducts and subdirectory with the same name (leclercProducts).
