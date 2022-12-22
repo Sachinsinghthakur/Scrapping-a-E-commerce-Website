@@ -1,4 +1,4 @@
-# leclerc_products_cliff.ai
+## leclerc_products_cliff.ai
 
 # Contribution Guidelines
 
@@ -16,3 +16,12 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the `#readme` anchor for GitHub READMEs to link them directly
 
 Thank you for your suggestions!
+
+# File and Folder Structure
+
+- I followed the default srapy's project structure for the assignment.
+- All scrapy-related code is placed directly in project folder leclercProducts and subdirectory with the same name (leclercProducts).
+- The Screenshots folder along with project folder LeclercProducts contain the screenshot of terminal with request and response and I also added the screenshot
+  of my cloud mongo db cluster images containing the database and all its collection.
+- The spider created for crawling the web pages is in the spider folder with name leclerc_spider.py.
+- pipeline.py and settings.py file is edited corrospond to the leclerc_spider.py
