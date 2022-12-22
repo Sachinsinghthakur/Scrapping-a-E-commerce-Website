@@ -1,11 +1,12 @@
-## leclerc_products_cliff.ai
+# cliff.ai Take Home Assignment
 
-# Contribution Guidelines
+# STEPS I FOLLOWED TO SOLVE THE ASSIGNMENT :
 
-Please ensure your pull request adheres to the following guidelines:
-
-- Alphabetize your entry.
-- Search previous suggestions before making a new one, as yours may be a duplicate.
+- As ususal I started scraping the given website using CS tags and XPATH as I never came across a dynamic website to scrap and didn't know much about how to scrap it.
+- After I learned it's a dynamic website I read and watched many youtube videos that can help me to get started with scraping dynamic website.
+- I decided to go with XHR request that are sent to server to load website dynamically.
+- Everything in the project was new to me so I decided to write and test my code as granular as possible using Jupyter and done all testing in test.ipynp
+- 
 - Suggested READMEs should be beautiful or stand out in some way.
 - Make an individual pull request for each suggestion.
 - New categories, or improvements to the existing categorization are welcome.
